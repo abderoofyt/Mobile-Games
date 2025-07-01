@@ -19,7 +19,6 @@ Play against a friend or challenge yourself against the AI.
 ## ✨ Features
 
 - Player vs Player mode
-- Player vs AI (if available)
 - Simple and clean user interface
 - Lightweight and fast
 - No ads or unnecessary permissions

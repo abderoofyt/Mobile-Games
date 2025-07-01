@@ -9,10 +9,10 @@ Play against a friend or challenge yourself against the AI.
 
 ## 📱 Download & Install
 
-1. **Download the APK file** from this link:  
+1. **Download the APK file** from the link below:  
    👉 [Click here to download the APK](https://github.com/abderoofyt/Mobile-Games/blob/main/Tic%20Tac%20Toe%20APk/tictactoe.apk?raw=true)
-2. On your Android device, go to **Settings > Security** and enable **Unknown Sources**.
-3. Open the downloaded APK file and tap **Install**.
+2. On your Android device, go to **Settings > Security**, and enable **Install from Unknown Sources** (if not already enabled).
+3. Open the downloaded APK and tap **Install**.
 4. Enjoy the game!
 
 ---
@@ -20,17 +20,17 @@ Play against a friend or challenge yourself against the AI.
 ## ✨ Features
 
 - Player vs Player mode
-- Player vs AI (coming soon or already available)
-- Simple, clean UI
-- Lightweight and fast performance
-- No ads!
+- Player vs AI (if available)
+- Simple and clean user interface
+- Lightweight and fast
+- No ads or unnecessary permissions
 
 ---
 
 ## 📸 Screenshots
 
 *(Optional: Add screenshots here)*  
-You can add images like this:
+To display screenshots, add them to an `images/` folder in your repo and use:
 
 ```markdown
 ![Gameplay Screenshot](images/screenshot1.png)
